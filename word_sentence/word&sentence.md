@@ -135,6 +135,17 @@
 | 131  | arbitraty                              | 任意的，任性的             |
 | 132  | wrinkle                                | 妙计，窍门，褶皱           |
 | 133  | leave it out                           | 不提了，不说了             |
+| 134  | fatal                                  | 致命的，夺命的             |
+| 135  | trait                                  | 特质，特点                 |
+| 136  | derivable                              | 可衍生的，可派生的         |
+| 137  | semantics                              | 语义学                     |
+| 138  | transfer                               | 移交，转移                 |
+| 139  | tedious                                | 乏味的                     |
+| 140  | annoying                               | 恼人的，烦人的             |
+| 141  | ceremony                               | 仪式，仪式感               |
+| 142  | references                             | 引用                       |
+| 143  | suppress                               | 压制，打压                 |
+| 144  | amend                                  | 修订，修正                 |
 
  
 
