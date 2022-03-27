@@ -83,7 +83,7 @@
 | 79   | counter                                | 计数器                     |
 | 80   | evaluate                               | 评价，评估                 |
 | 81   | ceases to be true                      | 不再是真的                 |
-| 82   | eliminates                             | 消除                       |
+| 82   | eliminate                              | 消除                       |
 | 83   | nesting                                | 嵌套                       |
 | 84   | panic                                  | 恐慌，惊慌                 |
 | 85   | approach                               | 办法，方法，途径           |
@@ -146,6 +146,59 @@
 | 142  | references                             | 引用                       |
 | 143  | suppress                               | 压制，打压                 |
 | 144  | amend                                  | 修订，修正                 |
+| 145  | ampersand                              | 符号                       |
+| 146  | depict                                 | 描绘，描写                 |
+| 147  | concept                                | 概念                       |
+| 148  | diagram                                | 图表，图解，图示           |
+| 149  | opposite                               | 相反的                     |
+| 150  | is accomplished with                   | 是通过以下方式实现的       |
+| 151  | likewise                               | 同样地                     |
+| 152  | explanatory                            | 解释性的                   |
+| 153  | spoiler alert                          | 剧透                       |
+| 154  | tweak                                  | 调整                       |
+| 155  | restriction                            | 限制，约束                 |
+| 156  | struggle with                          | 挣扎于                     |
+| 157  | data race                              | 数据竞争                   |
+| 158  | synchronize                            | 同步，同步进行             |
+| 159  | diagnose                               | 诊断                       |
+| 160  | track them down                        | 追踪他们，追查他们         |
+| 161  | simultaneous                           | 同期，同时进行的           |
+| 162  | enforce                                | 执行                       |
+| 163  | overlap                                | 重合，叠加                 |
+| 164  | *Non-Lexical Lifetimes*                | 非词汇性的寿命             |
+| 165  | lexical                                | 词汇，词法                 |
+| 166  | frustrating                            | 令人沮丧的，挫折的         |
+| 167  | dangling                               | 悬空的，悬而未决的         |
+| 168  | erroneously                            | 错误地                     |
+| 169  | dangle                                 | 悬空，悬垂                 |
+| 170  | recap                                  | 回顾，重述                 |
+| 171  | slices                                 | 片段                       |
+| 172  | quantity                               | 数量                       |
+| 173  | In other words                         | 换句话说，换言之           |
+| 174  | separate                               | 独立的，分开的             |
+| 175  | brittle                                | 脆弱的                     |
+| 175  | tied to                                | 绑定于，系于               |
+| 176  | enumerate                              | 列举，枚举                 |
+| 177  | wrap                                   | 包裹，包装                 |
+| 178  | extract out                            | 提取出来                   |
+| 179  | get out of sync with the data          | 与数据不同步，与数据脱节   |
+| 180  | a portion of                           | 一部分                     |
+| 181  | specified                              | 特定的，指定的             |
+| 182  | specify                                | 指定，具体说明             |
+| 183  | corresponds to                         | 相当于                     |
+| 184  | By the same token                      | 同样的道理                 |
+| 185  | trailing number                        | 尾数，后面的数字           |
+| 186  | thorough                               | 彻底的，详尽的             |
+| 187  | signify                                | 标志着，意味着             |
+| 188  | straightforward                        | 直截了当的                 |
+| 189  | mess up                                | 弄乱，搞乱                 |
+| 190  | emptied                                | 清空的                     |
+| 191  | truncate                               | 截断，截短                 |
+| 192  | improvement                            | 改善，改进                 |
+| 193  | flexibility                            | 灵活性，弹性               |
+| 194  | deref coercions                        | 解除胁迫，解除强制措施     |
+| 195  | take advantage of                      | 利用                       |
+| 196  | specific to                            | 特定于，专门用于           |
 
  
 
@@ -167,11 +220,11 @@
 | 12   | Contemporary processors are faster if they jump around less in memory. | 当代的处理器如果在内存中跳动较少，速度会更快                 |
 | 13   | Continuing the analogy, consider a server at a restaurant taking orders from many tables. | 继续这个比喻，考虑一个餐厅的服务员从许多桌子上接单           |
 | 14   | Once you understand ownership, you won’t need to think about the stack and the heap very often, but knowing that the main purpose of ownership is to manage heap data can help explain why it works the way it does. | 一旦你理解了所有权，你就不需要经常考虑堆栈和栈，但知道所有权的主要目的是管理堆数据，可以帮助解释为什么它以这样的方式工作。 |
-|      | for example, what if we want to take user input and store it? | 例如，如果我们想接受用户的输入并将其存储起来，该怎么办？     |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
+| 15   | for example, what if we want to take user input and store it? | 例如，如果我们想接受用户的输入并将其存储起来，该怎么办？     |
+| 16   | The restriction preventing multiple mutable references to the same data at the same time allows for mutation but in a very controlled fashion. | 防止在同一时间对同一个数据有多个可改变的引用的这个限制，允许改变，但以一个非常可控的方式进行 |
+| 17   | There’s no mechanism being used to synchronize access to the data. | 没有使用任何机制来同步访问数据。                             |
+| 18   | Rust enforces a similar rule for combining mutable and immutable references. | Rust对于结合可变和不可变的引用也执行类似的规则。             |
+|      | These scopes don’t overlap.                                  | 这些范围并不重合。                                           |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
