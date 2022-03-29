@@ -1,204 +1,222 @@
 ## word
 
-| 序号 | 英文单词                               | 中文含义                   |
-| :--- | -------------------------------------- | -------------------------- |
-| 1    | explict                                | 阐述                       |
-| 2    | denoted                                | 表示为                     |
-| 3    | literal                                | 字面意义上的               |
-| 4    | primary                                | 初级                       |
-| 5    | primitive                              | 原始的                     |
-| 6    | respectively                           | 分别是                     |
-| 7    | subtraction                            | 减法                       |
-| 8    | quotient                               | 商数                       |
-| 9    | floored                                | 浮动的                     |
-| 10   | remainder                              | 剩余的                     |
-| 11   | appendix                               | 附录                       |
-| 12   | explicit                               | 明确的                     |
-| 13   | quote                                  | 引号，引述                 |
-| 14   | scalar                                 | 标量                       |
-| 15   | accented letter like Chinese, Japanese | 重音字母，如中文、日文     |
-| 16   | inclusive                              | 包容性的                   |
-| 17   | intuition                              | 直觉                       |
-| 18   | match up with                          | 相配                       |
-| 19   | compound                               | 复式，复合物               |
-| 20   | shrink                                 | 缩小                       |
-| 21   | comma-separated                        | 逗号分隔的                 |
-| 22   | parentheses                            | 圆括号                     |
-| 23   | annotation                             | 标注，注释                 |
-| 24   | destructure                            | 解除结构                   |
-| 25   | implicitly                             | 隐含地                     |
-| 26   | similar                                | 类似的                     |
-| 27   | square bracket                         | 方括号                     |
-| 28   | semicolon                              | 分号                       |
-| 29   | concise                                | 简洁的                     |
-| 30   | chunk                                  | 大块                       |
-| 31   | corresponding                          | 相应的                     |
-| 32   | principle                              | 原则                       |
-| 33   | in action                              | 在行动中                   |
-| 34   | prevalent                              | 流行的，盛行的，普遍的     |
-| 35   | curly brackets                         | 大括号                     |
-| 36   | designate                              | 指定，指定的               |
-| 37   | signature                              | 签名                       |
-| 38   | concrete                               | 具体的，混凝土             |
-| 39   | technically                            | 技术上来说                 |
-| 40   | in casual conversation                 | 闲聊时                     |
-| 41   | interchangeably                        | 互换地                     |
-| 42   | casual                                 | 休闲的，随便的             |
-| 43   | deliberate                             | 深思熟虑的，蓄意的         |
-| 44   | comma                                  | 逗号                       |
-| 45   | measurement                            | 衡量标准，测量             |
-| 46   | statement                              | 声明                       |
-| 47   | expression                             | 表达式                     |
-| 48   | optionally                             | 可选择地                   |
-| 49   | distinction                            | 区别，差异                 |
-| 50   | instruction                            | 指令，指示                 |
-| 51   | evaluate                               | 评价                       |
-| 52   | evaluate to                            |                            |
-| 53   | preceding                              | 前面提到                   |
-| 54   | assignment                             | 赋值，任务                 |
-| 55   | synonymous                             | 同义的                     |
-| 56   | examine                                | 审查，检查，研究，审视     |
-| 57   | mismatched                             | 不匹配的                   |
-| 58   | expressed                              | 表示                       |
-| 59   | contradict                             | 违背                       |
-| 60   | rectify                                | 纠正                       |
-| 61   | strive to                              | 力争做到                   |
-| 62   | warranted                              | 有必要的                   |
-| 63   | comments                               | 注释，评论                 |
-| 64   | idiomatic                              | 习惯性的                   |
-| 65   | slashes                                | 斜线                       |
-| 66   | constructs                             | 结构                       |
-| 67   | inflation                              | 通货膨胀                   |
-| 68   | alternative                            | 替代的，另类的             |
-| 69   | divisible                              | 可分割的，可除尽的         |
-| 70   | clutter                                | 使杂乱无章                 |
-| 71   | incompatible                           | 不相容的                   |
-| 72   | hypothetical                           | 假设性的                   |
-| 73   | untracked                              | 没有被追踪的，无踪迹的     |
-| 74   | pull request                           | 拉取请求                   |
-| 75   | repetition                             | 重复                       |
-| 76   | loop                                   | 循环                       |
-| 77   | stuck in a continual loop              | 循环不息                   |
-| 78   | nested                                 | 嵌套的                     |
-| 79   | counter                                | 计数器                     |
-| 80   | evaluate                               | 评价，评估                 |
-| 81   | ceases to be true                      | 不再是真的                 |
-| 82   | eliminate                              | 消除                       |
-| 83   | nesting                                | 嵌套                       |
-| 84   | panic                                  | 恐慌，惊慌                 |
-| 85   | approach                               | 办法，方法，途径           |
-| 86   | prone                                  | 倾向                       |
-| 87   | ownership                              | 所有权                     |
-| 88   | unique                                 | 独特的，独一无二的         |
-| 89   | lays data out in memory                | 在内存中放置数据           |
-| 90   | implications                           | 影响，意义                 |
-| 91   | constantly                             | 不断地                     |
-| 92   | violated                               | 违反的，遭受侵犯的         |
-| 93   | solid                                  | 坚实的，固体               |
-| 94   | opposite                               | 相反的                     |
-| 95   | pile                                   | 一堆，堆积物               |
-| 96   | spot                                   | 地点，点                   |
-| 97   | abbreviated as                         | 简称为                     |
-| 98   | bookkeeping                            | 记账                       |
-| 99   | contemporary                           | 当代，当代的               |
-| 100  | analogy                                | 类比，比喻                 |
-| 101  | by the same token                      | 同样的道理                 |
-| 102  | all problems that ownership addresses  | 所有的问题都是所有权解决的 |
-| 103  | illustrate                             | 图解说明，说明             |
-| 104  | scope                                  | 范围                       |
-| 105  | boilerplate                            | 规章制度                   |
-| 106  | boilerplate code                       | 模板代码                   |
-| 107  | string literal                         | 字符串                     |
-| 108  | trivially                              | 轻而易举地                 |
-| 109  | colon                                  | 冒号，殖民地               |
-| 110  | namespace                              | 命名空间                   |
-| 111  | particular                             | 特别的                     |
-| 112  | syntax                                 | 语法                       |
-| 113  | mutated                                | 改变的                     |
-| 114  | a blob of                              | 一团团的                   |
-| 115  | be requested from                      | 要求从，需要从             |
-| 116  | universal                              | 普遍性的                   |
-| 117  | pretty much                            | 几乎是，基本上             |
-| 118  | deallocate                             | 卸载，卸货                 |
-| 119  | profound                               | 深刻的                     |
-| 120  | impact                                 | 影响，影响力               |
-| 121  | probably                               | 可能，大概                 |
-| 122  | figure                                 | 图表                       |
-| 123  | capacity                               | 容量，能力                 |
-| 124  | representation                         | 代表，代表性               |
-| 125  | in terms of                            | 在以下方面                 |
-| 126  | memory corruption                      | 内存损坏                   |
-| 127  | vulnerabilities                        | 漏洞，弱点                 |
-| 128  | shallow copy                           | 浅层复制                   |
-| 129  | shallow                                | 浅薄的，浅显的             |
-| 130  | deep copy                              | 深度复制，深拷贝           |
-| 131  | arbitraty                              | 任意的，任性的             |
-| 132  | wrinkle                                | 妙计，窍门，褶皱           |
-| 133  | leave it out                           | 不提了，不说了             |
-| 134  | fatal                                  | 致命的，夺命的             |
-| 135  | trait                                  | 特质，特点                 |
-| 136  | derivable                              | 可衍生的，可派生的         |
-| 137  | semantics                              | 语义学                     |
-| 138  | transfer                               | 移交，转移                 |
-| 139  | tedious                                | 乏味的                     |
-| 140  | annoying                               | 恼人的，烦人的             |
-| 141  | ceremony                               | 仪式，仪式感               |
-| 142  | references                             | 引用                       |
-| 143  | suppress                               | 压制，打压                 |
-| 144  | amend                                  | 修订，修正                 |
-| 145  | ampersand                              | 符号                       |
-| 146  | depict                                 | 描绘，描写                 |
-| 147  | concept                                | 概念                       |
-| 148  | diagram                                | 图表，图解，图示           |
-| 149  | opposite                               | 相反的                     |
-| 150  | is accomplished with                   | 是通过以下方式实现的       |
-| 151  | likewise                               | 同样地                     |
-| 152  | explanatory                            | 解释性的                   |
-| 153  | spoiler alert                          | 剧透                       |
-| 154  | tweak                                  | 调整                       |
-| 155  | restriction                            | 限制，约束                 |
-| 156  | struggle with                          | 挣扎于                     |
-| 157  | data race                              | 数据竞争                   |
-| 158  | synchronize                            | 同步，同步进行             |
-| 159  | diagnose                               | 诊断                       |
-| 160  | track them down                        | 追踪他们，追查他们         |
-| 161  | simultaneous                           | 同期，同时进行的           |
-| 162  | enforce                                | 执行                       |
-| 163  | overlap                                | 重合，叠加                 |
-| 164  | *Non-Lexical Lifetimes*                | 非词汇性的寿命             |
-| 165  | lexical                                | 词汇，词法                 |
-| 166  | frustrating                            | 令人沮丧的，挫折的         |
-| 167  | dangling                               | 悬空的，悬而未决的         |
-| 168  | erroneously                            | 错误地                     |
-| 169  | dangle                                 | 悬空，悬垂                 |
-| 170  | recap                                  | 回顾，重述                 |
-| 171  | slices                                 | 片段                       |
-| 172  | quantity                               | 数量                       |
-| 173  | In other words                         | 换句话说，换言之           |
-| 174  | separate                               | 独立的，分开的             |
-| 175  | brittle                                | 脆弱的                     |
-| 175  | tied to                                | 绑定于，系于               |
-| 176  | enumerate                              | 列举，枚举                 |
-| 177  | wrap                                   | 包裹，包装                 |
-| 178  | extract out                            | 提取出来                   |
-| 179  | get out of sync with the data          | 与数据不同步，与数据脱节   |
-| 180  | a portion of                           | 一部分                     |
-| 181  | specified                              | 特定的，指定的             |
-| 182  | specify                                | 指定，具体说明             |
-| 183  | corresponds to                         | 相当于                     |
-| 184  | By the same token                      | 同样的道理                 |
-| 185  | trailing number                        | 尾数，后面的数字           |
-| 186  | thorough                               | 彻底的，详尽的             |
-| 187  | signify                                | 标志着，意味着             |
-| 188  | straightforward                        | 直截了当的                 |
-| 189  | mess up                                | 弄乱，搞乱                 |
-| 190  | emptied                                | 清空的                     |
-| 191  | truncate                               | 截断，截短                 |
-| 192  | improvement                            | 改善，改进                 |
-| 193  | flexibility                            | 灵活性，弹性               |
-| 194  | deref coercions                        | 解除胁迫，解除强制措施     |
-| 195  | take advantage of                      | 利用                       |
-| 196  | specific to                            | 特定于，专门用于           |
+| 序号 | 英文单词                               | 中文含义                           |
+| :--- | -------------------------------------- | ---------------------------------- |
+| 1    | explict                                | 阐述                               |
+| 2    | denoted                                | 表示为                             |
+| 3    | literal                                | 字面意义上的                       |
+| 4    | primary                                | 初级                               |
+| 5    | primitive                              | 原始的                             |
+| 6    | respectively                           | 分别是                             |
+| 7    | subtraction                            | 减法                               |
+| 8    | quotient                               | 商数                               |
+| 9    | floored                                | 浮动的                             |
+| 10   | remainder                              | 剩余的                             |
+| 11   | appendix                               | 附录                               |
+| 12   | explicit                               | 明确的                             |
+| 13   | quote                                  | 引号，引述                         |
+| 14   | scalar                                 | 标量                               |
+| 15   | accented letter like Chinese, Japanese | 重音字母，如中文、日文             |
+| 16   | inclusive                              | 包容性的                           |
+| 17   | intuition                              | 直觉                               |
+| 18   | match up with                          | 相配                               |
+| 19   | compound                               | 复式，复合物                       |
+| 20   | shrink                                 | 缩小                               |
+| 21   | comma-separated                        | 逗号分隔的                         |
+| 22   | parentheses                            | 圆括号                             |
+| 23   | annotation                             | 标注，注释                         |
+| 24   | destructure                            | 解除结构                           |
+| 25   | implicitly                             | 隐含地                             |
+| 26   | similar                                | 类似的                             |
+| 27   | square bracket                         | 方括号                             |
+| 28   | semicolon                              | 分号                               |
+| 29   | concise                                | 简洁的                             |
+| 30   | chunk                                  | 大块                               |
+| 31   | corresponding                          | 相应的                             |
+| 32   | principle                              | 原则                               |
+| 33   | in action                              | 在行动中                           |
+| 34   | prevalent                              | 流行的，盛行的，普遍的             |
+| 35   | curly brackets                         | 大括号                             |
+| 36   | designate                              | 指定，指定的                       |
+| 37   | signature                              | 签名                               |
+| 38   | concrete                               | 具体的，混凝土                     |
+| 39   | technically                            | 技术上来说                         |
+| 40   | in casual conversation                 | 闲聊时                             |
+| 41   | interchangeably                        | 互换地                             |
+| 42   | casual                                 | 休闲的，随便的                     |
+| 43   | deliberate                             | 深思熟虑的，蓄意的，故意的，有意的 |
+| 44   | comma                                  | 逗号                               |
+| 45   | measurement                            | 衡量标准，测量                     |
+| 46   | statement                              | 声明                               |
+| 47   | expression                             | 表达式                             |
+| 48   | optionally                             | 可选择地                           |
+| 49   | distinction                            | 区别，差异                         |
+| 50   | instruction                            | 指令，指示                         |
+| 51   | evaluate                               | 评价                               |
+| 52   | evaluate to                            |                                    |
+| 53   | preceding                              | 前面提到                           |
+| 54   | assignment                             | 赋值，任务                         |
+| 55   | synonymous                             | 同义的                             |
+| 56   | examine                                | 审查，检查，研究，审视             |
+| 57   | mismatched                             | 不匹配的                           |
+| 58   | expressed                              | 表示                               |
+| 59   | contradict                             | 违背                               |
+| 60   | rectify                                | 纠正                               |
+| 61   | strive to                              | 力争做到                           |
+| 62   | warranted                              | 有必要的                           |
+| 63   | comments                               | 注释，评论                         |
+| 64   | idiomatic                              | 习惯性的                           |
+| 65   | slashes                                | 斜线                               |
+| 66   | constructs                             | 结构                               |
+| 67   | inflation                              | 通货膨胀                           |
+| 68   | alternative                            | 替代的，另类的                     |
+| 69   | divisible                              | 可分割的，可除尽的                 |
+| 70   | clutter                                | 使杂乱无章                         |
+| 71   | incompatible                           | 不相容的                           |
+| 72   | hypothetical                           | 假设性的                           |
+| 73   | untracked                              | 没有被追踪的，无踪迹的             |
+| 74   | pull request                           | 拉取请求                           |
+| 75   | repetition                             | 重复                               |
+| 76   | loop                                   | 循环                               |
+| 77   | stuck in a continual loop              | 循环不息                           |
+| 78   | nested                                 | 嵌套的                             |
+| 79   | counter                                | 计数器                             |
+| 80   | evaluate                               | 评价，评估                         |
+| 81   | ceases to be true                      | 不再是真的                         |
+| 82   | eliminate                              | 消除                               |
+| 83   | nesting                                | 嵌套                               |
+| 84   | panic                                  | 恐慌，惊慌                         |
+| 85   | approach                               | 办法，方法，途径                   |
+| 86   | prone                                  | 倾向                               |
+| 87   | ownership                              | 所有权                             |
+| 88   | unique                                 | 独特的，独一无二的                 |
+| 89   | lays data out in memory                | 在内存中放置数据                   |
+| 90   | implications                           | 影响，意义                         |
+| 91   | constantly                             | 不断地                             |
+| 92   | violated                               | 违反的，遭受侵犯的                 |
+| 93   | solid                                  | 坚实的，固体                       |
+| 94   | opposite                               | 相反的                             |
+| 95   | pile                                   | 一堆，堆积物                       |
+| 96   | spot                                   | 地点，点                           |
+| 97   | abbreviated as                         | 简称为                             |
+| 98   | bookkeeping                            | 记账                               |
+| 99   | contemporary                           | 当代，当代的                       |
+| 100  | analogy                                | 类比，比喻                         |
+| 101  | by the same token                      | 同样的道理                         |
+| 102  | all problems that ownership addresses  | 所有的问题都是所有权解决的         |
+| 103  | illustrate                             | 图解说明，说明                     |
+| 104  | scope                                  | 范围                               |
+| 105  | boilerplate                            | 规章制度                           |
+| 106  | boilerplate code                       | 模板代码                           |
+| 107  | string literal                         | 字符串                             |
+| 108  | trivially                              | 轻而易举地                         |
+| 109  | colon                                  | 冒号，殖民地                       |
+| 110  | namespace                              | 命名空间                           |
+| 111  | particular                             | 特别的                             |
+| 112  | syntax                                 | 语法                               |
+| 113  | mutated                                | 改变的                             |
+| 114  | a blob of                              | 一团团的                           |
+| 115  | be requested from                      | 要求从，需要从                     |
+| 116  | universal                              | 普遍性的                           |
+| 117  | pretty much                            | 几乎是，基本上                     |
+| 118  | deallocate                             | 卸载，卸货                         |
+| 119  | profound                               | 深刻的                             |
+| 120  | impact                                 | 影响，影响力                       |
+| 121  | probably                               | 可能，大概                         |
+| 122  | figure                                 | 图表                               |
+| 123  | capacity                               | 容量，能力                         |
+| 124  | representation                         | 代表，代表性                       |
+| 125  | in terms of                            | 在以下方面                         |
+| 126  | memory corruption                      | 内存损坏                           |
+| 127  | vulnerabilities                        | 漏洞，弱点                         |
+| 128  | shallow copy                           | 浅层复制                           |
+| 129  | shallow                                | 浅薄的，浅显的                     |
+| 130  | deep copy                              | 深度复制，深拷贝                   |
+| 131  | arbitraty                              | 任意的，任性的                     |
+| 132  | wrinkle                                | 妙计，窍门，褶皱                   |
+| 133  | leave it out                           | 不提了，不说了                     |
+| 134  | fatal                                  | 致命的，夺命的                     |
+| 135  | trait                                  | 特质，特点                         |
+| 136  | derivable                              | 可衍生的，可派生的                 |
+| 137  | semantics                              | 语义学                             |
+| 138  | transfer                               | 移交，转移                         |
+| 139  | tedious                                | 乏味的，繁琐的                     |
+| 140  | annoying                               | 恼人的，烦人的                     |
+| 141  | ceremony                               | 仪式，仪式感                       |
+| 142  | references                             | 引用                               |
+| 143  | suppress                               | 压制，打压                         |
+| 144  | amend                                  | 修订，修正                         |
+| 145  | ampersand                              | 符号                               |
+| 146  | depict                                 | 描绘，描写                         |
+| 147  | concept                                | 概念                               |
+| 148  | diagram                                | 图表，图解，图示                   |
+| 149  | opposite                               | 相反的                             |
+| 150  | is accomplished with                   | 是通过以下方式实现的               |
+| 151  | likewise                               | 同样地                             |
+| 152  | explanatory                            | 解释性的                           |
+| 153  | spoiler alert                          | 剧透                               |
+| 154  | tweak                                  | 调整                               |
+| 155  | restriction                            | 限制，约束                         |
+| 156  | struggle with                          | 挣扎于                             |
+| 157  | data race                              | 数据竞争                           |
+| 158  | synchronize                            | 同步，同步进行                     |
+| 159  | diagnose                               | 诊断                               |
+| 160  | track them down                        | 追踪他们，追查他们                 |
+| 161  | simultaneous                           | 同期，同时进行的                   |
+| 162  | enforce                                | 执行                               |
+| 163  | overlap                                | 重合，叠加                         |
+| 164  | *Non-Lexical Lifetimes*                | 非词汇性的寿命                     |
+| 165  | lexical                                | 词汇，词法                         |
+| 166  | frustrating                            | 令人沮丧的，挫折的                 |
+| 167  | dangling                               | 悬空的，悬而未决的                 |
+| 168  | erroneously                            | 错误地                             |
+| 169  | dangle                                 | 悬空，悬垂                         |
+| 170  | recap                                  | 回顾，重述                         |
+| 171  | slices                                 | 片段                               |
+| 172  | quantity                               | 数量                               |
+| 173  | In other words                         | 换句话说，换言之                   |
+| 174  | separate                               | 独立的，分开的                     |
+| 175  | brittle                                | 脆弱的                             |
+| 175  | tied to                                | 绑定于，系于                       |
+| 176  | enumerate                              | 列举，枚举                         |
+| 177  | wrap                                   | 包裹，包装                         |
+| 178  | extract out                            | 提取出来                           |
+| 179  | get out of sync with the data          | 与数据不同步，与数据脱节           |
+| 180  | a portion of                           | 一部分                             |
+| 181  | specified                              | 特定的，指定的                     |
+| 182  | specify                                | 指定，具体说明                     |
+| 183  | corresponds to                         | 相当于                             |
+| 184  | By the same token                      | 同样的道理                         |
+| 185  | trailing number                        | 尾数，后面的数字                   |
+| 186  | thorough                               | 彻底的，详尽的                     |
+| 187  | signify                                | 标志着，意味着                     |
+| 188  | straightforward                        | 直截了当的                         |
+| 189  | mess up                                | 弄乱，搞乱                         |
+| 190  | emptied                                | 清空的                             |
+| 191  | truncate                               | 截断，截短                         |
+| 192  | improvement                            | 改善，改进                         |
+| 193  | flexibility                            | 灵活性，弹性                       |
+| 194  | deref coercions                        | 解除胁迫，解除强制措施             |
+| 195  | take advantage of                      | 利用                               |
+| 196  | specific to                            | 特定于，专门用于                   |
+| 197  | demonstrate                            | 展示，显示                         |
+| 198  | instantiate                            | 实例化                             |
+| 199  | associated                             | 相关的，关联的                     |
+| 200  | significance                           | 意义，重要性                       |
+| 201  | concrete                               | 具体的                             |
+| 202  | notation                               | 记号                               |
+| 203  | dot                                    | 点                                 |
+| 204  | shorthand                              | 速记法，速记本                     |
+| 205  | leek                                   | 韭菜                               |
+| 206  | cultivation                            | 耕种，种植，栽培                   |
+| 207  | trait                                  | 特质，特点                         |
+| 208  | known                                  | 已知的                             |
+| 209  | regularly                              | 经常性的                           |
+| 210  | but otherwise                          | 但除此之外                         |
+| 211  | regardless of                          | 无论                               |
+| 212  | thus                                   | 因此，因而                         |
+| 213  | verbose                                | 冗长的，啰嗦的                     |
+| 214  | redundant                              | 冗长的，冗赘的                     |
 
  
 
@@ -224,7 +242,9 @@
 | 16   | The restriction preventing multiple mutable references to the same data at the same time allows for mutation but in a very controlled fashion. | 防止在同一时间对同一个数据有多个可改变的引用的这个限制，允许改变，但以一个非常可控的方式进行 |
 | 17   | There’s no mechanism being used to synchronize access to the data. | 没有使用任何机制来同步访问数据。                             |
 | 18   | Rust enforces a similar rule for combining mutable and immutable references. | Rust对于结合可变和不可变的引用也执行类似的规则。             |
-|      | These scopes don’t overlap.                                  | 这些范围并不重合。                                           |
+| 19   | These scopes don’t overlap.                                  | 这些范围并不重合。                                           |
+| 20   | Tuple structs have the added meaning the struct name provides but don't have names associated with their fields. | 元祖结构具有结构名称提供的附加含义，但没有与他们的字段相关的名称。 |
+| 21   |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
