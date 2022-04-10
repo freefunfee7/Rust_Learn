@@ -317,6 +317,24 @@
 | 312  | delegate                               | 委托，代表                                      |
 | 313  | stake                                  | 利益，赌注，利害关系                            |
 | 314  | convention                             | 公约，常规                                      |
+| 315  | keypair                                | 密钥对，钥匙配对，钥匙对                        |
+| 316  | slot                                   | 槽位                                            |
+| 317  | tuning                                 | 调整，调音                                      |
+| 318  | balance                                | 余额，平衡                                      |
+| 319  | recipient                              | 收件人                                          |
+| 320  | degraded                               | 降级的                                          |
+| 321  | deposit                                | 存款                                            |
+| 322  | substrate                              | 基质，底层                                      |
+| 323  | wildcard                               | 通配符                                          |
+| 324  | expressiveness                         | 表现力，表达力，表达性                          |
+| 325  | confirm                                | 确认，证实                                      |
+| 326  | coin-sorting                           | 硬币排序，硬币整理，硬币分类                    |
+| 327  | slide down                             | 滑下，滑落                                      |
+| 328  | encounter                              | 遭遇，遇到                                      |
+| 329  | speaking of                            | 说到，谈到，讲到                                |
+| 330  | determine                              | 确定，决定                                      |
+| 331  | break down                             | 分解，破解                                      |
+| 332  | typically                              | 通常情况下，一般来说                            |
 
 ## sentence
 
