@@ -335,6 +335,13 @@
 | 330  | determine                              | 确定，决定                                      |
 | 331  | break down                             | 分解，破解                                      |
 | 332  | typically                              | 通常情况下，一般来说                            |
+| 333  | loose change                           | 零钱                                            |
+| 334  | attempt to                             | 试图，尝试                                      |
+| 335  | tricky                                 | 狡猾的，棘手的                                  |
+| 336  | consistently                           | 一贯如此，始终如一                              |
+| 337  | exhaustive                             | 详尽的                                          |
+| 338  | wordy                                  | 啰嗦的                                          |
+| 339  | mint                                   | 铸造                                            |
 
 ## sentence
 
@@ -362,10 +369,10 @@
 | 20   | Tuple structs have the added meaning the struct name provides but don't have names associated with their fields. | 元祖结构具有结构名称提供的附加含义，但没有与他们的字段相关的名称。 |
 | 21   | Because we haven't conveyed the meaning of our data in our code, it's now easier to introduce errors. | 因为我们没有在代码中传达出数据的含义，现在更容易引入错误     |
 | 22   | This technique is usually used when the method transforms self into something else and you want to prevent the caller from using the original instance after the transformation . | 这种技术通常用于当method将self转化为其他东西，并且你想阻止调用者在转化后使用原始实例的时候 |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
+| 23   | While we sort our loose change by coin type, we’ll also call out the name of the state associated with each quarter so if it’s one our friend doesn’t have, they can add it to their collection. | 当我们按照硬币类型对零钱进行分类时，我们也会喊出与每个25分硬币相关的洲名，这样如果是我们的朋友没有的，他们就可以把它加入他们的收藏。 |
+| 24   | thus getting the inner state value out of the Coin enum variant for Quarter. | 从而从Coin枚举体中得到Quarter的内部状态值。                  |
+| 25   | It protects us from assuming that we have a value when we might have null. | 它可以保护我们不再假设我们有一个值，而我们可能是一个空值null。 |
+| 26   | All other logic represented by functions without bodies because actually implementing them is out of scope for this example。 | 所有其他的逻辑都是由没有主体的函数表示的，因为实际实现它们不在这个例子的范围之内。 |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
